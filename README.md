@@ -28,7 +28,7 @@ To clone and run this application
 
 ```bash
     # Clone this repository
-    $ git clone https://github.com/lukemorales/react-rocketshoes
+    $ git clone https://github.com/zV1N1/example-vue-shop.git
 
     # Go into the repository
     $ cd example-vue-shop
